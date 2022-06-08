@@ -1,3 +1,9 @@
 # Amazon-scraper-API
 
-work in progress
+## GET Amazon Search Results
+
+## GET Amazon Product Offers
+
+## GET Amazon Product Reviews
+
+## GET Amazon Product Details
